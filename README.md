@@ -1,5 +1,5 @@
 # ☁️ About Me:
-🔭 I’m working on creating AI-driven tools to make language learning more fun and intuitive.<br>🌱 I’m currently learning how to make my yoga practice as flexible as my code.<br>💬 Ask me why Aristotle would have been great at debugging code.<br>⚡ Fun fact: I used to work at a coffee shop named Local Java.<br>📫 How to reach me: van.t.dang@vanderbilt.edu
+🔭 I’m working on creating AI-driven tools to make language learning more fun and intuitive.<br>🌱 I’m currently learning how to make my yoga practice as flexible as my code.<br>💬 Ask me why Aristotle would have been great at debugging code.<br>☕ Fun fact: I used to work at a coffee shop named Local Java.<br>📫 How to reach me: van.t.dang@vanderbilt.edu
 
 
 ## 🌐 Socials:
